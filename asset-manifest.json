@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/asif-portfolio/static/css/main.88de7fb7.css",
-    "main.js": "/asif-portfolio/static/js/main.b13d2bd2.js",
-    "static/js/453.cf65d604.chunk.js": "/asif-portfolio/static/js/453.cf65d604.chunk.js",
-    "static/media/Asif2.png": "/asif-portfolio/static/media/Asif2.39b968931f800284919b.png",
-    "static/media/Asif.png": "/asif-portfolio/static/media/Asif.71228136e2c101358296.png",
-    "static/media/b2c2.png": "/asif-portfolio/static/media/b2c2.4badaabadebe4a6f760d.png",
-    "static/media/b2c6.png": "/asif-portfolio/static/media/b2c6.d3f9c3dc80058d753322.png",
-    "static/media/bestone-water.jpg": "/asif-portfolio/static/media/bestone-water.cc9d42fa8ec665337256.jpg",
-    "static/media/bmits.jpg": "/asif-portfolio/static/media/bmits.9cce47e4041abcc52d3c.jpg",
-    "static/media/Md_Asif-Iqbal-UI-UX-Developer.pdf": "/asif-portfolio/static/media/Md_Asif-Iqbal-UI-UX-Developer.2708414502829334dc6a.pdf",
-    "index.html": "/asif-portfolio/index.html",
-    "main.88de7fb7.css.map": "/asif-portfolio/static/css/main.88de7fb7.css.map",
-    "main.b13d2bd2.js.map": "/asif-portfolio/static/js/main.b13d2bd2.js.map",
-    "453.cf65d604.chunk.js.map": "/asif-portfolio/static/js/453.cf65d604.chunk.js.map"
+    "main.css": "/md-asif-iqbal-portfolio/static/css/main.88de7fb7.css",
+    "main.js": "/md-asif-iqbal-portfolio/static/js/main.ca61527e.js",
+    "static/js/453.cf65d604.chunk.js": "/md-asif-iqbal-portfolio/static/js/453.cf65d604.chunk.js",
+    "static/media/Asif2.png": "/md-asif-iqbal-portfolio/static/media/Asif2.39b968931f800284919b.png",
+    "static/media/Asif.png": "/md-asif-iqbal-portfolio/static/media/Asif.71228136e2c101358296.png",
+    "static/media/b2c2.png": "/md-asif-iqbal-portfolio/static/media/b2c2.4badaabadebe4a6f760d.png",
+    "static/media/b2c6.png": "/md-asif-iqbal-portfolio/static/media/b2c6.d3f9c3dc80058d753322.png",
+    "static/media/bestone-water.jpg": "/md-asif-iqbal-portfolio/static/media/bestone-water.cc9d42fa8ec665337256.jpg",
+    "static/media/bmits.jpg": "/md-asif-iqbal-portfolio/static/media/bmits.9cce47e4041abcc52d3c.jpg",
+    "static/media/Md_Asif-Iqbal-UI-UX-Developer.pdf": "/md-asif-iqbal-portfolio/static/media/Md_Asif-Iqbal-UI-UX-Developer.2708414502829334dc6a.pdf",
+    "index.html": "/md-asif-iqbal-portfolio/index.html",
+    "main.88de7fb7.css.map": "/md-asif-iqbal-portfolio/static/css/main.88de7fb7.css.map",
+    "main.ca61527e.js.map": "/md-asif-iqbal-portfolio/static/js/main.ca61527e.js.map",
+    "453.cf65d604.chunk.js.map": "/md-asif-iqbal-portfolio/static/js/453.cf65d604.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88de7fb7.css",
-    "static/js/main.b13d2bd2.js"
+    "static/js/main.ca61527e.js"
   ]
 }
