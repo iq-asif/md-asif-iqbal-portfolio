@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+:root{
+    --body-bg: #171A1D;
+    --black: #0A0A0A;
+    --yellow: #E4AF12;
+    --stroke: rgba(255, 255, 255, 0.04);
+    --border: rgba(255, 255, 255, 0.39);
+    --white: #ebebeb;
+    --fill: #1F1F1F;
+}
+body {
+    background: var(--body-bg);
+    font-family: "poppins", sans-serif;
+    color: var(--white);
+    font-size: 16px;
+  
+    @media (max-height: 500px) {
+      font-size: 60%;
+    }
+}
+.primary-btn{
+    background-color: var(--yellow);
+    padding: 10px 25px;
+    color: var(--black);
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.outline-btn{
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: underline;
+
+    &:hover{
+        color: var(--yellow);
+        transition: all ease-in-out .3s;
+    }
+
+}
+section{
+    padding-block: 50px;
+}
+.title-outline{
+    padding: 10px 20px;
+    background: transparent;
+    border-radius: 50px;
+    border: solid 1px var(--border);
+    font-size: 16px;
+    font-weight: 300;
+
+    i{
+        margin-right: 10px;
+    }
+}
+a{
+    color: var(--white);
+    text-decoration: none;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

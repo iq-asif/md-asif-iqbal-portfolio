@@ -1,0 +1,49 @@
+.resume-section{
+    background: var(--black);
+    span:last-child, .arrow{
+        font-size: 60px;
+        color: var(--yellow);
+        background: var(--stroke);
+        border: solid 1px var(--border);
+        padding: 18px 30px;
+        border-radius: 50%;
+        line-height: 2;
+        
+    }
+    .star{
+        margin: auto;
+    }
+    .work-exp{
+        padding-block: 50px;
+
+        @media (max-width: 768px){
+            padding-bottom: 0;
+        }
+        .arrow{
+            font-size: 30px;
+            width: 50px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--black);
+            background-color: var(--yellow);
+            line-height: 1;
+        }
+        .work-section-info{
+            display: flex;
+            gap: 20px;
+        }
+        .work-section-info{
+            background: var(--fill);
+            border: solid 1px var(--stroke);
+            padding: 15px;
+            border-radius: 15px;
+
+
+            h3{
+                font-weight: 500;
+            }
+        }
+    }
+}

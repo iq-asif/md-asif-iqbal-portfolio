@@ -1,0 +1,35 @@
+.skills-section{
+    .skills-content-item{
+        width: 80%;
+
+        @media (max-width: 768px){
+            width: 100%;
+        }
+        h2{
+            line-height: 1.5;
+        }
+    }
+    .skills-box{
+        background: var(--fill);
+        border: solid 1px var(--stroke);
+        padding-block: 20px 5px;
+        border-radius: 15px;
+
+        img{
+            max-width: 50px;
+        }
+
+        span:last-child{
+            /* background-color: var(--black); */
+            width: 100%;
+            /* padding: 3px 25px; */
+            border-radius: 8px;
+            transition: all ease .3s;
+
+            /* &:hover{
+                background: var(--yellow);
+                color: var(--black);
+            } */
+        }
+    }
+}
