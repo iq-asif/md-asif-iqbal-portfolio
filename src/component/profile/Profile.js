@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from '../profile/assets/Md_Asif-Iqbal-UI-UX-Developer.pdf';
+import pdf from '../profile/assets/Md_Asif_Iqbal_UIUX_Developer_Resume.pdf';
 import './profile.css'
 import profileImg from '../profile/assets/Asif.png';
 
@@ -17,7 +17,7 @@ function Profile()
                     </div>
                     <div className='btn-item'>
                         <a href='tel:0504751345'><span className='btn primary-btn me-6 max-[600px]:inline-block max-[600px]:mb-2'>Hire me<i class="fa-solid fa-chevron-right"></i></span></a>
-                        <a href={pdf} download='Md_Asif-Iqbal-UI-UX-Developer.pdf' className='outline-btn '>Download Resume<i class="fa-solid fa-chevron-right"></i></a>
+                        <a href={pdf} download='Md_Asif_Iqbal_UIUX_Developer_Resume.pdf' className='outline-btn '>Download Resume<i class="fa-solid fa-chevron-right"></i></a>
                     </div>
                 </div>
                 <div className='profile-img'>

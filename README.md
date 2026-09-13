@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# resume
+
+A modern web application built with clean and responsive design principles. This project focuses on creating a smooth user experience with optimized performance, reusable components, and scalable code structure.
+
+## Features
+- Responsive design for all devices
+- Clean and maintainable code
+- Modern UI/UX implementation
+- Fast and optimized performance
+
+## Technologies Used
+- React.js
+- Tailwind CSS
+- JavaScript
+>>>>>>> eadea17a72047913d88daa325bbacf19393e92bd
