@@ -10,23 +10,21 @@ function About() {
                 <div className='about-item'>
                     <span className='title-outline'><i class="fa-regular fa-user"></i>About me</span>
                     <div className='content-item max-[600px]:text-sm'>
-                        <h2>Every great design begin<br/> withan even better story</h2>
-                        <p>I am Md. Asif Iqbal, a passionate and creative UI/UX Developer dedicated to crafting exceptional digital
-experiences. With 3+ years of experience in the industry, I thrive on turning ideas into visually stunning and
-user-friendly websites</p>
+                        <h2>Every great design begins with an even better story.</h2>
+                        <p>I’m Md. Asif Iqbal, a creative UI/UX Developer based in Dubai, UAE. With 4+ years of experience, I turn ideas into visually stunning, user-friendly websites. I research users, design wireframes and prototypes in Figma, then build responsive, accessible interfaces with HTML, CSS and JavaScript. I enjoy working with developers and product teams to create experiences people love to use.</p>
                     </div>
                     <div className='ed-item grid grid-cols-2'>
                         <div className='content-wrap min-w-16'>
                             <span><i class="fa-solid fa-check"></i></span>
                             <div className='ed-content text-lg'>
-                                <span className='block'>Graduate, B.A.<br/>BBMK. University</span>
+                                <span className='block'>Bachelor of Arts (B.A.),<br/>BBMK University</span>
                                 <span className='opacity-40'>2018-2021</span>
                             </div>
                         </div>
                         <div className='content-wrap'>
                             <span><i class="fa-solid fa-check"></i></span>
                             <div className='ed-content text-lg pe-5'>
-                                <span className='block'>Diploma in Graphic, Web Design, Aren Animation, Kolkata</span>
+                                <span className='block'>Diploma in Graphic & Web Design, Arena Animation, Kolkata</span>
                                 <span className='opacity-40'>2019-2020</span>
                             </div>
                         </div>
@@ -35,7 +33,7 @@ user-friendly websites</p>
                         <div className='contact-item'>
                             <span><i class="bi bi-envelope"></i></span>
                             <div className='email'>
-                                <span className='opacity-40'> Email Us</span>
+                                <span className='opacity-40'>Email Us</span>
                                 <a href='mailto:asifraza7050@gmail.com'>asifraza7050@gmail.com</a>
                             </div>
                         </div>

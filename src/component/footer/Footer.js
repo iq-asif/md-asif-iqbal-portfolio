@@ -38,7 +38,7 @@ function Footer() {
                                 </div>
                             </address>
                             <div className='social-media'>
-                                <a href="https://in.linkedin.com/in/asif-iqbal-ba8baa184" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin-in"></i></a>
+                                <a href="https://www.linkedin.com/in/md-asif-iqbal-ba8baa184/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin-in"></i></a>
                                 <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
                             </div>
@@ -65,7 +65,7 @@ function Footer() {
                                 </div>
                                 <div className='form-group pt-4'>
                                     <label>Message</label>
-                                    <textarea cols={50} rows={10} placeholder='Message'/>
+                                    <textarea cols={50} rows={5} placeholder='Message'/>
                                 </div>
                                 <button type='submit' className='btn primary-btn mt-4'>Submit</button>
                             </form>
